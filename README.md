@@ -1,6 +1,6 @@
 # Monty Hall Simulator
 
-Simulator for [the Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem)
+Simulator for [the Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem).
 
 ## Usage: Running a Single Simulation
 
